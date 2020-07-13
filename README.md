@@ -2,6 +2,8 @@
 
 I am developer with a focus on Machine Learning, DevOps and Full Stack Web Development. Weekly tech blogs at [sudhanva.me](sudhanva.me)
 
+![Sudhanva Narayana](sudhanva.gif)
+
 ## Expertise :briefcase:
 
 ### System Architecture (3 - 4 years) :computer:
