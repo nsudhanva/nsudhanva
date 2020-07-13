@@ -2,7 +2,7 @@
 
 I am developer with a focus on Machine Learning, DevOps and Full Stack Web Development. Weekly tech blogs at [sudhanva.me](sudhanva.me)
 
-![Sudhanva Narayana](sudhanva.gif)
+![Sudhanva Narayana](./sudhanva.gif)
 
 ## Expertise :briefcase:
 
