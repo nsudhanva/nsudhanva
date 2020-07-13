@@ -35,7 +35,7 @@ I am developer with a focus on Machine Learning, DevOps and Full Stack Web Devel
 ## Reach out to me at: :vulcan_salute:
 
 - [Email](mailto:nsudhanva@gmail.com) :email:
-- [Phone/WhatsApp](tel:+919632350260) :iphone:
+- [Phone/WhatsApp](https://api.whatsapp.com/send?phone=9632350260) :iphone:
 - [LinkedIn](https://linkedin.com/in/nsudhanva) :tea:
 - [Personal Site](https://sudhanva.me/contact) :beers:
 
