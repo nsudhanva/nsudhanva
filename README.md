@@ -1,6 +1,6 @@
 # Hi there, 👋 this is [Sudhanva](https://sudhanva.me) :smile: :book: :headphones: :video_game: :coffee: [![HitCount](http://hits.dwyl.com/nsudhanva/nsudhanva.svg)](http://hits.dwyl.com/nsudhanva/nsudhanva)
 
-I am developer with a focus on Machine Learning, DevOps and Full Stack Web Development. Weekly tech blogs at [sudhanva.me](sudhanva.me)
+I am a developer with a focus on Machine Learning, DevOps and Full Stack Web Development. Weekly tech blogs at [sudhanva.me](sudhanva.me)
 
 ## Expertise :briefcase:
 
