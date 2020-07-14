@@ -1,9 +1,6 @@
 # Hi there, 👋 this is [Sudhanva](https://sudhanva.me) :smile: :book: :headphones: :video_game: :coffee: [![HitCount](http://hits.dwyl.com/nsudhanva/nsudhanva.svg)](http://hits.dwyl.com/nsudhanva/nsudhanva)
 
-
 I am developer with a focus on Machine Learning, DevOps and Full Stack Web Development. Weekly tech blogs at [sudhanva.me](sudhanva.me)
-
-![Sudhanva Narayana](https://github.com/nsudhanva/nsudhanva/blob/master/sudhanva.gif)
 
 ## Expertise :briefcase:
 
@@ -14,13 +11,13 @@ I am developer with a focus on Machine Learning, DevOps and Full Stack Web Devel
 - DevOps for any kind of organisation
 - Continous integration, deployment and delivery
 
-## Machine Learning (2 - 3 years) :bulb:
+### Machine Learning (2 - 3 years) :bulb:
 
 - Data Engineering and Processing
 - Build, Validate, Deploy and Scale Machine Learning/Deep Learning models
 - ML Ops
 
-## Training and Teaching (3 - 4 years) :octocat:
+### Training and Teaching (3 - 4 years) :octocat:
 
 - Comfortable teaching or training to any level of people
 - Some interest in technical documentation and writing blogs as well
