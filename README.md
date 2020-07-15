@@ -30,7 +30,7 @@ I am a developer with a focus on Machine Learning, DevOps and Full Stack Web Dev
 ## Education :man_student:
 
 - Masters of Computer Applications - PES University, class of 2020
-- Bachelors of Computer Applications - Bengaluru University, class of 2016
+- Bachelors of Computer Applications - PES University, class of 2016
 
 ## Reach out to me at: :vulcan_salute:
 
