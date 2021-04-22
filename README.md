@@ -24,8 +24,10 @@ An all-round, polyglot developer with a focus on building machine learning syste
 
 ## Skills :wrench:
 
-- Programming Languages: Python (Web, Data Science), JavaScript (Web), Ruby (Web), Go (Web)
-- Cloud: AWS, GCP - Infrastructure as code, data pipelines, APIs and more
+- Programming Languages: Python (Web - Django/Flask, Data Science - TensorFlow, PyTorch), JavaScript (Web - Node.js), Ruby (Web - Rails), Go (System)
+- Technologies: Kubernetes, Docker, Terraform, Airflow, Kubeflow, Redis, NATS Streaming
+- Databases: SQL (Postgres, MySQL), NoSQL (MongoDB),  Graph (DGraph)
+- Cloud: Amazon Web Services (Advanced), Microsoft Azure (Advanced), Google Cloud Platform (Intermediate). Infrastructure as Code, Data Pipelines, APIs, Load Balancers and more!
 
 ## Education :man_student:
 
