@@ -1,4 +1,4 @@
-# Hi there, 👋 this is [Sudhanva](https://sudhanva.me) :smile: :book: :headphones: :video_game: :coffee: [![HitCount](http://hits.dwyl.com/nsudhanva/nsudhanva.svg)](http://hits.dwyl.com/nsudhanva/nsudhanva)
+# Hi there, 👋 this is [Sudhanva](https://sudhanva.me) :smile: :book: :headphones: :video_game: :coffee:
 
 An all-round, polyglot developer with a focus on building machine learning systems. Love to teach, read and write. Weekly tech blogs at [sudhanva.me](https://sudhanva.me)
 
