@@ -1,6 +1,9 @@
 # Hi there, 👋 this is [Sudhanva](https://sudhanva.me) :smile: :book: :headphones: :video_game: :coffee:
 
-An all-round, polyglot developer with a focus on building machine learning systems. Love to teach, read and write. Weekly tech blogs at [sudhanva.me](https://sudhanva.me)
+- An all-round, polyglot developer with a focus on building machine learning systems. Love to teach, read and write. 
+- Tech blogs at [sudhanva.me](https://sudhanva.me)
+- Portfolio at [sudhanva.me/tag/portfolio/](https://sudhanva.me/tag/portfolio)
+- Graduate Student, Master in Artificial Intelligence at [Northeastern University](https://northeastern.edu), Boston, MA, USA
 
 ## Expertise :briefcase:
 
@@ -31,13 +34,13 @@ An all-round, polyglot developer with a focus on building machine learning syste
 
 ## Education :man_student:
 
-- Masters of Computer Applications - PES University, class of 2020
+- Master in Artificial Intelligence - Khoury College of Computer Sciences, Northeastern University, class of 2023
 - Bachelors of Computer Applications - PES University, class of 2016
 
 ## Reach out to me at: :vulcan_salute:
 
 - [Email](mailto:nsudhanva@gmail.com) :email:
-- [Phone/WhatsApp](https://api.whatsapp.com/send?phone=9632350260) :iphone:
+- [Phone](tel:+18572309915) :iphone:
 - [LinkedIn](https://linkedin.com/in/nsudhanva) :tea:
 - [Personal Site](https://sudhanva.me/contact) :beers:
 
