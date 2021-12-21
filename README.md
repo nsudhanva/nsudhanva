@@ -40,7 +40,7 @@
 ## Reach out to me at: :vulcan_salute:
 
 - [Email](mailto:nsudhanva@gmail.com) :email:
-- [Phone](tel:+18572309915) :iphone:
+- [Phone](tel:8572309915) :iphone:
 - [LinkedIn](https://linkedin.com/in/nsudhanva) :tea:
 - [Personal Site](https://sudhanva.me/contact) :beers:
 
