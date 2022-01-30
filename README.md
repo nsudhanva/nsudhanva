@@ -1,4 +1,4 @@
-# Hi there, 👋 this is [Sudhanva](https://sudhanva.me) :smile: :book: :headphones: :video_game: :coffee:
+# Hi there, 👋 this is [Sudhanva](https://sudhanva.me) :smile: :book: :headphones: :video_game: :coffee: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnsudhanva%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/nsudhanva)
 
 - An all-round, polyglot developer with a focus on building machine learning systems. Love to teach, read and write. 
 - Tech blogs at [sudhanva.me](https://sudhanva.me)
@@ -43,4 +43,6 @@
 - [Phone](tel:8572309915) :iphone:
 - [LinkedIn](https://linkedin.com/in/nsudhanva) :tea:
 - [Personal Site](https://sudhanva.me/contact) :beers:
+
+
 
