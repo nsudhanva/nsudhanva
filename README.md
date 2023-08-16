@@ -1,48 +1,34 @@
 # Hi there, 👋 this is [Sudhanva](https://sudhanva.me)
 
-- An all-round, polyglot developer with a focus on building machine learning systems. Love to teach, read and write. 
-- Tech blogs at [sudhanva.me](https://sudhanva.me)
-- Portfolio at [sudhanva.me/tag/portfolio/](https://sudhanva.me/tag/portfolio)
-- Graduate Student, Master in Artificial Intelligence at [Northeastern University](https://northeastern.edu), Boston, MA, USA
+## About Me
 
-## Expertise :briefcase:
+An accomplished Machine Learning Engineer located in the Greater Boston Area, I work as a Senior Software Engineer in Computational Modeling at Montai Health, Cambridge, Massachusetts. My professional trajectory is enriched with a blend of full-stack web development, platform engineering, and a commendable dedication to technical writing—a testament to accolades from entities like Pixxel, Digital Ocean, LinkedIn, and Northeastern University.
 
-### System Architecture (3 - 4 years) :computer:
+## Education
+- **M.S. in Artificial Intelligence**, Khoury College of Computer Sciences, Northeastern University, 2023
+- **B.Sc. in Computer Science** (High Honors), PES University, affiliated to Bangalore University, 2016
 
-- Build things from scratch or re-build existing systems
-- Full Stack Web Development (mostly Back-end)
-- DevOps for any kind of organisation
-- Continous integration, deployment and delivery
+## Professional Experience
+- **Senior Software Engineer, Computational Modeling** – Montai Health, Cambridge, MA
+- **Lead Machine Learning Engineer** – Pixxel Space, India's premier space tech startup
+- **Machine Learning Engineer** – Initiable Intelligence
+- **Software Engineer and Mentor** – DCT Academy
+- **Internships**: MLOps Engineer at Autodesk; diverse roles at startups including RubyKraft and Faststream Technologies
 
-### Machine Learning (2 - 3 years) :bulb:
+## Technical Competencies
+- **Machine Learning**: Infrastructure, Modeling, Platform Engineering with TensorFlow and PyTorch
+- **DevOps and SRE**: Mastery in Docker, Kubernetes, Terraform across AWS, Azure, and GCP, ensuring scalable, multi-regional, and highly available cloud-native deployments
+- **Backend Development**: Emphasis on caching, concurrency, and distributed computing using Node, Django, Flask among others
+- **Process & Collaboration**: Championing a quasi-agile software engineering framework that emphasizes mentorship, comprehensive documentation, rigorous code reviews, and timely delivery
 
-- Data Engineering and Processing
-- Build, Validate, Deploy and Scale Machine Learning/Deep Learning models
-- ML Ops
+## Leadership Philosophy
+My leadership is grounded in fostering collaboration, driving innovation, and honing technical proficiency, pillars that have upheld my professional journey.
 
-### Training and Teaching (3 - 4 years) :octocat:
+## Connect
+- **Email**: [nsudhanva@gmail.com](mailto:nsudhanva@gmail.com)
+- **Phone**: [857-230-9915](tel:8572309915)
+- **Schedule**: [Zoom/Meet](https://cal.sudhanva.me)
+- **LinkedIn**: [in/nsudhanva](https://linkedin.com/in/nsudhanva)
+- **Portfolio & Blog**: [sudhanva.me](https://sudhanva.me)
 
-- Comfortable teaching or training to any level of people
-- Some interest in technical documentation and writing blogs as well
-
-## Skills :wrench:
-
-- Programming Languages: Python (Web - Django/Flask, Data Science - TensorFlow, PyTorch), JavaScript (Web - Node.js), Ruby (Web - Rails), Go (System)
-- Technologies: Kubernetes, Docker, Terraform, Airflow, Kubeflow, Redis, NATS Streaming
-- Databases: SQL (Postgres, MySQL), NoSQL (MongoDB),  Graph (DGraph)
-- Cloud: Amazon Web Services (Advanced), Microsoft Azure (Advanced), Google Cloud Platform (Intermediate). Infrastructure as Code, Data Pipelines, APIs, Load Balancers and more!
-
-## Education :man_student:
-
-- Master in Artificial Intelligence - Khoury College of Computer Sciences, Northeastern University, class of 2023
-- Bachelors of Computer Applications - PES University, class of 2016
-
-## Reach out to me at: :vulcan_salute:
-
-- [Email](mailto:nsudhanva@gmail.com) :email:
-- [Phone](tel:8572309915) :iphone:
-- [LinkedIn](https://linkedin.com/in/nsudhanva) :tea:
-- [Personal Site](https://sudhanva.me/contact) :beers:
-
-
-
+For more details or collaborations, please reach out. Let's innovate together.
