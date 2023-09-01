@@ -6,7 +6,7 @@ An accomplished Machine Learning Engineer located in the Greater Boston Area, I 
 
 ## Education
 - **M.S. in Artificial Intelligence**, Khoury College of Computer Sciences, Northeastern University, 2023
-- **B.Sc. in Computer Science** (High Honors), PES University, affiliated to Bangalore University, 2016
+- **B.S. in Computer Science**, PES University, affiliated to Bangalore University, 2016
 
 ## Professional Experience
 - **Senior Software Engineer, Computational Modeling** – Montai Health, Cambridge, MA
