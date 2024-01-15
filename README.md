@@ -2,7 +2,7 @@
 
 ## About Me
 
-An accomplished Machine Learning Engineer located in the Greater Boston Area, I work as a Senior Software Engineer in Computational Modeling at Montai Health, Cambridge, Massachusetts. My professional trajectory is enriched with a blend of full-stack web development, platform engineering, and a commendable dedication to technical writing—a testament to accolades from entities like Pixxel, Digital Ocean, LinkedIn, and Northeastern University.
+Machine Learning Engineer located in the Greater Boston Area, I work as a Senior Software Engineer in Computational Modeling at Montai Health, Cambridge, Massachusetts. My professional trajectory is enriched with a blend of full-stack web development, platform engineering, and a commendable dedication to technical writing—a testament to accolades from entities like Pixxel, Digital Ocean, LinkedIn, and Northeastern University.
 
 ## Education
 - **M.S. in Artificial Intelligence**, Khoury College of Computer Sciences, Northeastern University, 2023
@@ -20,9 +20,6 @@ An accomplished Machine Learning Engineer located in the Greater Boston Area, I 
 - **DevOps and SRE**: Mastery in Docker, Kubernetes, Terraform across AWS, Azure, and GCP, ensuring scalable, multi-regional, and highly available cloud-native deployments
 - **Backend Development**: Emphasis on caching, concurrency, and distributed computing using Node, Django, Flask among others
 - **Process & Collaboration**: Championing a quasi-agile software engineering framework that emphasizes mentorship, comprehensive documentation, rigorous code reviews, and timely delivery
-
-## Leadership Philosophy
-My leadership is grounded in fostering collaboration, driving innovation, and honing technical proficiency, pillars that have upheld my professional journey.
 
 ## Connect
 - **Email**: [nsudhanva@gmail.com](mailto:nsudhanva@gmail.com)
