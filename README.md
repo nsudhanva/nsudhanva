@@ -2,7 +2,7 @@
 
 ## About Me
 
-Machine Learning Engineer located in the Greater Boston Area, I work as a Senior Software Engineer in Computational Modeling at Montai Health, Cambridge, Massachusetts. My professional trajectory is enriched with a blend of full-stack web development, platform engineering, and a commendable dedication to technical writing—a testament to accolades from entities like Pixxel, Digital Ocean, LinkedIn, and Northeastern University.
+Machine Learning Engineer located in the Greater Boston Area, I work as a Senior Software Engineer in Computational Modeling at Montai Health, Cambridge, Massachusetts.
 
 ## Education
 - **M.S. in Artificial Intelligence**, Khoury College of Computer Sciences, Northeastern University, 2023
